@@ -1,185 +1,294 @@
 <!--
-  OBITO / KAMUI PROFILE | premium GitHub README
-  Author: Mohamed Afkar (@rmafkar)
-  Artwork: custom, original vector artwork included in /assets
-  GitHub READMEs don't support arbitrary CSS or JavaScript.
-  Keep all referenced assets in the /assets directory.
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                   OBITO // THE CODE SHINOBI · VERSION 2.0                  ║
+║                         AUTHOR : MOHAMED AFKAR                            ║
+║                         GITHUB : @rmafkar                                  ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ IMPORTANT: This premium edition REQUIRES the /assets folder.              ║
+║ Upload both README.md AND assets (PNGs) into your GitHub profile repo.        ║
+║ GitHub does not render custom CSS/JS, but repository-hosted images work.     ║
+║ All core content remains readable if external services are unavailable.                                                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
-  <a href="https://github.com/rmafkar">
-    <img src="./assets/kamui-hero.png" width="100%" alt="Mohamed Afkar — The Code Shinobi, Obito-inspired Kamui developer banner" />
-  </a>
-  <br />
-  <a href="https://github.com/rmafkar?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-100D1F?style=for-the-badge&logo=github&logoColor=EAE0FF&labelColor=713BC2" alt="Explore repositories" />
-  </a>
-  <a href="https://rmafkar.github.io/">
-    <img src="https://img.shields.io/badge/ENTER%20MY%20PORTFOLIO-100D1F?style=for-the-badge&logo=vercel&logoColor=EAE0FF&labelColor=4A277F" alt="Portfolio website" />
-  </a>
-  <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=950&color=C4A1FF&center=true&vCenter=true&width=700&height=35&lines=Front-End+Design+Enthusiast;Java+%26+MySQL+Developer;Building+useful+software%2C+one+commit+at+a+time" alt="Animated developer introduction" />
-</div>
+
+<!-- CINEMATIC HEADER. Remove only this one line if the external banner is down. -->
+<img width="100%" alt="Custom Obito-inspired Kamui developer banner — Mohamed Afkar" src="./assets/kamui-hero.png" />
+
+<sub>「 影の開発者 」 · HIDDEN LEAF DEVELOPMENT DIVISION · CLASSIFIED PROFILE</sub>
 
 <br />
 
-<div align="center">
-  <img src="./assets/kamui-divider.png" width="95%" alt="Purple Kamui dimensional divider" />
-</div>
-
-<h2 align="center">01 // THE SHINOBI FILE</h2>
-
-<div align="center">
-  <img src="./assets/kamui-terminal.png" width="94%" alt="Stylized terminal introducing Mohamed Afkar and his developer mission" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=660&height=47&lines=Front-End+Design+Enthusiast;Java+%2B+JavaFX+Developer;MySQL+%2B+Database+Design;Code.+Create.+Evolve.;WELCOME+TO+MY+KAMUI+DIMENSION" alt="Developer roles animation" />
 
 <br />
 
-I am **Mohamed Afkar**, an **HND Computing student** interested in building clean, accessible user interfaces and practical software. My focus is on becoming a stronger developer through consistent learning, real projects, and attention to detail.
+<a href="https://github.com/rmafkar?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/⚔_EXPLORE_MY_MISSIONS-271443?style=for-the-badge&labelColor=080812&color=783DD0" /></a>
+<a href="https://rmafkar.github.io/"><img alt="Visit portfolio" src="https://img.shields.io/badge/◈_ENTER_THE_PORTFOLIO-271443?style=for-the-badge&labelColor=080812&color=9C315D" /></a>
 
-- **My focus:** Front-end design, UI/UX, practical application development
-- **My toolkit:** HTML, CSS, JavaScript, Java, JavaFX, MySQL
-- **Currently improving:** Responsive layouts, JavaScript, and React fundamentals
-- **My approach:** Understand the problem → design carefully → build → test → improve
-
-> **Shinobi mindset:** Quiet progress. Strong fundamentals. Code that speaks for itself.
-
-<div align="center">
-  <img src="./assets/kamui-divider.png" width="95%" alt="Section divider" />
-</div>
-
-<h2 align="center">02 // JUTSU ARSENAL</h2>
-
-<div align="center">
-  <p><strong>FRONT-END / INTERFACES</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
-  <p><strong>PROGRAMMING / DATABASE</strong></p>
-  <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java and MySQL" />
-  <p><strong>TOOLS / WORKFLOW</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, Visual Studio Code, IntelliJ IDEA" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/JavaFX-Desktop%20Apps-6D3AB1?style=flat-square" alt="JavaFX desktop applications" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-Current%20Focus-6D3AB1?style=flat-square" alt="Responsive UI focus" />
-  <img src="https://img.shields.io/badge/React-Learning-342052?style=flat-square" alt="Learning React" />
-</div>
-
-<div align="center">
-  <img src="./assets/kamui-divider.png" width="95%" alt="Section divider" />
-</div>
-
-<h2 align="center">03 // COMPLETED &amp; ONGOING MISSIONS</h2>
-
-<!-- Each project points to the repository list until you insert its actual public repository URL. -->
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🍜 MISSION 01 // CITY BITES</h3>
-<b>Food Management System</b><br /><br />
-JavaFX desktop application exploring menu management, cart operations, order confirmation, and administrative controls.<br /><br />
-<code>Java</code> <code>JavaFX</code> <code>Maven</code><br /><br />
-<a href="https://github.com/rmafkar?tab=repositories">Find project ↗</a>
-</td>
-<td width="50%" valign="top">
-<h3>🧑‍💼 MISSION 02 // EMPLOYEE SYSTEM</h3>
-<b>Employee Management System</b><br /><br />
-Relational database project covering employees, management workflows, data integrity, and SQL queries.<br /><br />
-<code>MySQL</code> <code>SQL</code> <code>Database Design</code><br /><br />
-<a href="https://github.com/rmafkar?tab=repositories">Find project ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🌐 MISSION 03 // PORTFOLIO</h3>
-<b>Personal Developer Portfolio</b><br /><br />
-A personal website presenting my work, technical skills, and developer journey.<br /><br />
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code><br /><br />
-<a href="https://rmafkar.github.io/">View website ↗</a>
-</td>
-<td width="50%" valign="top">
-<h3>🤖 MISSION 04 // JARVIS</h3>
-<b>Personal AI Assistant Project</b><br /><br />
-An exploration of assistant-like software experiences, interaction design, and practical automation ideas.<br /><br />
-<code>AI Concepts</code> <code>App Development</code><br /><br />
-<a href="https://github.com/rmafkar?tab=repositories">Find project ↗</a>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/rmafkar?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="./assets/kamui-divider.png" width="95%" alt="Section divider" />
-</div>
-
-<h2 align="center">04 // THE TRAINING ARC</h2>
-
-| Arc | Training focus | Stage |
-|:---|:---|:---|
-| **I — Foundation** | Clean semantic HTML, CSS, responsive design | In progress |
-| **II — Chakra Control** | JavaScript fundamentals and DOM projects | In progress |
-| **III — Awakening** | React and component-driven development | Learning |
-| **IV — Real Missions** | Refine, document, and publish stronger projects | Ongoing |
-
-<details>
-<summary><b>🌀 Click to reveal my developer philosophy</b></summary>
 <br />
+
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=rmafkar&label=PROFILE+VISITORS&color=6d28d9&style=flat-square" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rmafkar?label=SHINOBI%20ALLIES&style=flat-square&color=9C315D&labelColor=151020" />
+
+</div>
+
+<div align="center"><img src="./assets/kamui-divider.png" width="100%" alt="Kamui dimension section divider" /></div>
+
+<div align="center">
+
+### `00 / INCOMING TRANSMISSION`
+
+**「 THE WORLD OF CODE IS MY KAMUI DIMENSION 」**
+
+<sub>BUILD IN SILENCE &nbsp;✦&nbsp; LEARN WITH PURPOSE &nbsp;✦&nbsp; SHIP WITH PRIDE</sub>
+
+</div>
+
+<div align="center">
+<img width="100%" src="./assets/kamui-terminal.png" alt="The Kamui terminal — profile, mission and developer status" />
+</div>
+
+<details><summary>View the developer terminal as plain text</summary>
 
 ```text
-[ SHINOBI PRINCIPLES ]
-01. Build before you boast.
-02. Understand the code you write.
-03. Design for the people using it.
-04. Test, refactor, and improve.
-05. Let consistency become your advantage.
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                         K A M U I  /  T E R M I N A L                    ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  $ whoami                                                                 ┃
+┃  > Mohamed Afkar — HND Computing Student                                  ┃
+┃                                                                           ┃
+┃  $ cat developer.config                                                   ┃
+┃  > role        : Aspiring Software Developer                              ┃
+┃  > focus       : Front-End Design / UI & UX                               ┃
+┃  > languages   : HTML / CSS / JavaScript / Java / SQL                     ┃
+┃  > frameworks  : JavaFX | React [learning]                                ┃
+┃  > philosophy  : Build > Test > Improve > Repeat                          ┃
+┃                                                                           ┃
+┃  $ shinobi --status                                                        ┃
+┃  > [ONLINE]   Learning something new                                      ┃
+┃  > [ACTIVE]   Creating useful projects                                    ┃
+┃  > [READY]    Accepting the next challenge                               ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 </details>
 
 <div align="center">
-  <img src="./assets/kamui-divider.png" width="95%" alt="Section divider" />
+
+### `01 / THE SHINOBI BEHIND THE MASK`
+
 </div>
 
-<h2 align="center">05 // LIVE CHAKRA SIGNAL</h2>
+I am **Mohamed Afkar**, an **HND Computing student** who enjoys **front-end design**, thoughtful user experiences, and practical software development. I like turning ideas into working projects, especially interfaces that feel good to use.
+
+My learning path goes beyond collecting tools: **understand the problem, build the solution, test it, and keep improving it.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌀 CURRENT FOCUS**
+
+- Modern, responsive interface design
+- Practical JavaScript development
+- Accessible, user-friendly experiences
+- Building stronger real-world projects
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ PERSONAL CODE**
+
+- Quality before quantity
+- Fundamentals before frameworks
+- Progress before perfection
+- Real projects before empty hype
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="./assets/kamui-divider.png" width="100%" alt="Kamui dimension section divider" /></div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmafkar&theme=react-dark&hide_border=true&area=true&bg_color=0B0A17&color=C7A4FF&line=9859E8&point=F4B5FF&area_color=6D28D9" width="95%" alt="Live GitHub contribution activity graph" />
+
+### `02 / THE SHINOBI ARSENAL`
+
+**TECHNIQUES UNLOCKED &nbsp;•&nbsp; TOOLS IN TRAINING**
+
 </div>
+
+<table>
+<tr>
+<td width="34%"><b>🎨 INTERFACE JUTSU</b></td>
+<td>
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive UI</code>
+</td>
+</tr>
+<tr>
+<td><b>☕ APPLICATION JUTSU</b></td>
+<td><code>Java</code> <code>JavaFX</code> <code>Maven</code></td>
+</tr>
+<tr>
+<td><b>🗄️ DATA JUTSU</b></td>
+<td><code>MySQL</code> <code>SQL</code> <code>ERD</code> <code>Database Design</code></td>
+</tr>
+<tr>
+<td><b>🛠️ DEV TOOLKIT</b></td>
+<td><code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>IntelliJ IDEA</code></td>
+</tr>
+<tr>
+<td><b>🌱 NEXT AWAKENING</b></td>
+<td><code>React</code> <code>Component Design</code> <code>UI Testing</code></td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,idea&theme=dark&perline=9" alt="Technologies: HTML, CSS, JavaScript, Java, MySQL, Git, GitHub, VS Code, IntelliJ IDEA" />
+
+<sub>Not a list of mastered tools — a record of what I use and what I am learning.</sub>
+
+</div>
+
+<div align="center"><img src="./assets/kamui-divider.png" width="100%" alt="Kamui dimension section divider" /></div>
+
+<div align="center">
+
+### `03 / MISSION ARCHIVES`
+
+**SELECTED BUILDS • PRACTICAL EXPERIENCE • REAL LEARNING**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `MISSION 01` 🍜
+
+**CITY BITES — FOOD MANAGEMENT SYSTEM**
+
+JavaFX desktop app exploring admin menu controls, customer cart interactions, totals, and order confirmation.
+
+`Java` · `JavaFX` · `Maven`
+
+[**VIEW REPOSITORIES →**](https://github.com/rmafkar?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### `MISSION 02` 🗄️
+
+**EMPLOYEE MANAGEMENT SYSTEM**
+
+Relational database work covering employee information, management processes, SQL queries, and data integrity.
+
+`MySQL` · `SQL` · `Database Design`
+
+[**VIEW REPOSITORIES →**](https://github.com/rmafkar?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `MISSION 03` 🌐
+
+**PERSONAL DEVELOPER PORTFOLIO**
+
+A personal web presence to showcase technical skills, software projects, and a growing developer journey.
+
+`HTML` · `CSS` · `JavaScript`
+
+[**OPEN PORTFOLIO →**](https://rmafkar.github.io/)
+
+</td>
+<td width="50%" valign="top">
+
+### `MISSION 04` 🤖
+
+**JARVIS — PERSONAL AI ASSISTANT**
+
+A personal project exploring useful assistant experiences and human-friendly software interactions.
+
+`App Design` · `AI Concepts`
+
+[**VIEW REPOSITORIES →**](https://github.com/rmafkar?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> **Mission transparency:** Links go to my general repositories page until each project has its own public repository and documentation.
+
+<div align="center"><img src="./assets/kamui-divider.png" width="100%" alt="Kamui dimension section divider" /></div>
+
+<div align="center">
+
+### `04 / SHINOBI TRAINING ARC`
+
+</div>
+
+| Training arc | Objective | Status |
+| :--- | :--- | :---: |
+| **I · Academy** | Semantic HTML + clean CSS + responsive layouts | `TRAINING` |
+| **II · Chakra Control** | JavaScript fundamentals + interactive UI | `TRAINING` |
+| **III · Awakening** | React + reusable components | `NEXT` |
+| **IV · Mission Rank S** | Publish polished, documented applications | `ONGOING` |
 
 <details>
-<summary><b>📊 Open additional GitHub statistics</b> (loaded from third-party services)</summary>
+<summary><b>🔮 OPEN THE SHINOBI SCROLL — My coding principles</b></summary>
 <br />
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rmafkar&show_icons=true&hide_border=true&bg_color=0B0A17&title_color=C7A4FF&text_color=E5DDF6&icon_color=A775FA" alt="GitHub account statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmafkar&layout=compact&hide_border=true&bg_color=0B0A17&title_color=C7A4FF&text_color=E5DDF6" alt="Languages detected in public repositories" />
-</div>
+
+```text
+[ DEVELOPER NINDO / 忍道 ]
+01 > I will understand what I build.
+02 > I will write code that another developer can read.
+03 > I will prioritize people, accessibility, and usability.
+04 > I will test before claiming something works.
+05 > I will improve through consistency, not shortcuts.
+```
+
 </details>
 
-<div align="center">
-  <img src="./assets/kamui-divider.png" width="95%" alt="Section divider" />
-</div>
-
-<h2 align="center">06 // OPEN A PORTAL</h2>
+<div align="center"><img src="./assets/kamui-divider.png" width="100%" alt="Kamui dimension section divider" /></div>
 
 <div align="center">
-  <a href="https://github.com/rmafkar">
-    <img src="https://img.shields.io/badge/GITHUB-16111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://rmafkar.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-4D278C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" />
-  </a>
-  <!-- Add a verified LinkedIn URL here when you have one. -->
-  <p><em>Not trying to look like a great developer. Working to become one.</em></p>
-  <img src="./assets/kamui-footer.png" width="96%" alt="The journey continues: build, learn, evolve" />
+
+### `05 / CHAKRA NETWORK`
+
+**GITHUB ACTIVITY**
+
+GitHub tracks my public commits and contributions on my profile. Stats from external image services may fail temporarily, so my actual activity is always linked here.
+
+[**→ VIEW MY LIVE CONTRIBUTIONS**](https://github.com/rmafkar?tab=overview) &nbsp;&nbsp;•&nbsp;&nbsp; [**→ VIEW MY SOURCE CODE**](https://github.com/rmafkar?tab=repositories)
+
 </div>
 
-<!--
-  IMPORTANT:
-  1) Keep all PNG files from /assets alongside this README.
-  2) Replace generic project-directory links with verified repository links.
-  3) Verify portfolio URL and edit it if changed.
-  4) Third-party dynamic cards may occasionally be unavailable.
--->
+<div align="center"><img src="./assets/kamui-divider.png" width="100%" alt="Kamui dimension section divider" /></div>
+
+<div align="center">
+
+### `06 / CONTACT TRANSMISSION`
+
+**CONNECT • COLLABORATE • BUILD**
+
+<a href="https://github.com/rmafkar"><img src="https://img.shields.io/badge/GITHUB-12121D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://rmafkar.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+
+<br />
+
+<sub>“The strongest developer is the one who never stops learning.”</sub>
+
+### `THE JOURNEY CONTINUES.`
+
+**`∞ / CODE · CREATE · EVOLVE`**
+
+<img width="100%" alt="The Journey Continues — Kamui Footer" src="./assets/kamui-footer.png" />
+
+</div>
+
+<!-- END OF KAMUI TRANSMISSION -->
